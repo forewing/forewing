@@ -12,7 +12,7 @@ I'm an undergraduate student from **Nanjing University** pursuing a bachelor's d
 
 ## 💻 Work Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=forewing&show_icons=true&count_private=True)
+![Github stats](https://github-readme-stats.vercel.app/api?username=forewing&show_icons=true&count_private=true&hide_rank=true)
 
 ## 💡 Projects
 
