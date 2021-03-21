@@ -24,9 +24,9 @@ I'm an undergraduate student from **Nanjing University** pursuing a bachelor's d
 
 - Steam (https://steamcommunity.com/id/forewing)
 
-- [GPG Public Key](https://forewing.github.io/assets/gpg-public-key-forewing-20190427.txt)
+- [GPG Public Key](https://forewing.github.io/assets/gpg-public-key-forewing-20210212.txt)
 
-  - Finger Print: `DE36 E9DA 7EAB 0FB7 7BB0 1D41 1DA2 2D2A 2BC9 0134`
+  - Finger Print: `730E CB2B D860 85E4 B34C 98FA FCC7 ADFB 72E5 DE0D`
 
 ## 💻 Work Stats
 
