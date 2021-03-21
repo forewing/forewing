@@ -10,10 +10,6 @@ I'm an undergraduate student from **Nanjing University** pursuing a bachelor's d
 
     You can get some of my photography on my [gallery](https://forewing.github.io/gallery/).
 
-## 💻 Work Stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=forewing&show_icons=true&count_private=true&hide_rank=true)
-
 ## 💡 Projects
 
 - [**goldennum**](https://github.com/forewing/goldennum): A Goldennum **Game battleground** for human and AI/Bot. Widely used in NJUMSC's activities.
@@ -31,3 +27,7 @@ I'm an undergraduate student from **Nanjing University** pursuing a bachelor's d
 - [GPG Public Key](https://forewing.github.io/assets/gpg-public-key-forewing-20190427.txt)
 
   - Finger Print: `DE36 E9DA 7EAB 0FB7 7BB0 1D41 1DA2 2D2A 2BC9 0134`
+
+## 💻 Work Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=forewing&show_icons=true&count_private=true&hide_rank=true)
