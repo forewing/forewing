@@ -8,7 +8,7 @@ I'm an undergraduate student from **Nanjing University** pursuing a bachelor's d
 
 - I'm a beginner photographer, enjoy recording every beautiful moments of daily life with my α73.
 
-    You can get some of my photography on my [gallery](https://forewing.github.io/gallery/).
+    You can get some of my photograph on my [gallery](https://forewing.github.io/gallery/).
 
 ## 💡 Projects
 
