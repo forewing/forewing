@@ -2,13 +2,13 @@
 
 ![photo](https://unsplash.com/photos/QULAxulMtXQ/download?force=true&w=1920)
 
-I'm an undergraduate student from **Nanjing University** pursuing a bachelor's degree of Computer Science and Technology, and currently working on [**@NJUMSC**](https://github.com/njumsc) as a Technical Consultants.
+I'm an undergraduate student from **Nanjing University** pursuing a bachelor's degree of Computer Science and Technology, and currently working on [**@NJUMSC**](https://github.com/njumsc) as a Technical Consultant.
 
 ## 🏖️ Interests
 
 - I'm a beginner photographer, enjoy recording every beautiful moments of daily life with my α73.
 
-    You can get some of my photograph on my [gallery](https://forewing.github.io/gallery/).
+    You can get some of my photograph on [gallery](https://forewing.github.io/gallery/).
 
 ## 💡 Projects
 
